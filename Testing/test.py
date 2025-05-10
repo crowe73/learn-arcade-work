@@ -1,2 +1,1 @@
-print("It was a dark stormy night.")
-print("Suddenly, a shot rang out!")
+print("\nThis \nprints \non \nmultiple lines")
